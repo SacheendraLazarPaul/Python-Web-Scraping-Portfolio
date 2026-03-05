@@ -62,8 +62,13 @@ Features:
 - Exports to Excel for easy analysis
 
 ---
-
 ## Example Output
+
+### Terminal Output
+<img width="1910" height="687" alt="Screenshot 2026-03-05 225602" src="https://github.com/user-attachments/assets/4e4cd3d4-6a92-44a8-a271-f1e9389d00e4" />
+
+### Excel Output
+<img width="1604" height="939" alt="Screenshot 2026-03-05 225803" src="https://github.com/user-attachments/assets/5875ed62-d4ec-43d4-95f1-4c91aa775ae2" />
 
 The scripts generate structured datasets such as:
 
